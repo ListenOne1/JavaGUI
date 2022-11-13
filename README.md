@@ -5,25 +5,25 @@ The calculator is good, but when the things we need to do turn into repeated thi
 I always wish there is a better and quicker way to deal with it and save some time. 
 
 I made this function in Java using Swing library. There are four inputs in this function, the initial amount invested, 
-the interest rate annually or monthly, and time.
+the interest rate annually or monthly, and time. The function will calculate the compound interest for you.
 
 [Software Demo Video](https://www.youtube.com/watch?v=zYMIjCMgQBQ)
 
 # Development Environment
 
-{Describe the tools that you used to develop the software}
+* IntelliJ IDEA
 
-{Describe the programming language that you used and any libraries.}
+* Java (version 17)
+
+* Swing (library)
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
-* [Web Site Name](http://url.link.goes.here)
-* [Web Site Name](http://url.link.goes.here)
+
+* [Tutorial for Java](https://www.w3schools.com/java/default.asp)
+* [Tutorial for Swing](https://www.javatpoint.com/java-swing)
 
 # Future Work
 
-{Make a list of things that you need to fix, improve, and add in the future.}
-* Item 1
-* Item 2
-* Item 3
+* learn how to change color for button
+
